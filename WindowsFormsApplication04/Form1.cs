@@ -21,7 +21,7 @@
 			System.Windows.Forms.Button currentButton = sender as System.Windows.Forms.Button;
 			if (currentButton != null)
 			{
-				currentButton.BackColor = System.Drawing.Color.LightGray;
+				currentButton.BackColor = System.Drawing.Color.DarkGray;
 			}
 		}
 	}
